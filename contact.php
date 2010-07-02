@@ -18,6 +18,7 @@
 			<li><a href="profile.html">プロフィール</a></li>
 			<li><a href="works.html">活動</a></li>
 			<li><a href="whatsnew.html">更新情報</a></li>
+			<li><a href="news.html">ニュース</a></li>
 			<li><a href="contact.php">お問い合わせ</a></li>
 		</ul>
 	</div>
