@@ -12,6 +12,10 @@ body{
 p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, table, th, td, form, input, textarea{margin:0; padding:0;}
 ul, ol, li {list-style:none;}
 img{border:none;}
+table{
+	border:none;
+}
+
 #wrapper{
 	width:100%;
 }
@@ -75,4 +79,12 @@ img{border:none;}
 	font-style:normal;
 	line-height: 2em;
 	text-align:center;
+}
+
+#profile table{
+	width:700px;
+}
+#profile th{
+	text-align:left;
+	width:120px;
 }
