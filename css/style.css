@@ -4,8 +4,40 @@ html, body{
 	height:100%;
 }
 body{
-	background-color:#cdcdcd;
+	background-color:#fff;
 	font-size:12px;
 	margin:0;
 	padding:0;
 }
+p, ul, ol, li, dl, dt, dd, table, th, td, form, input, textarea{margin:0; padding:0;}
+ul, ol, li {list-style:none;}
+#wrapper{
+	width:100%;
+}
+#header{
+	background-color:#ffcc22;
+	height:90px;
+}
+#header h1 {
+	font-size:18px;
+	margin-top:20px;
+	margin-left:15px;
+}
+#sidebar_l {
+	width:200px;
+	float:left;
+}
+#sidebar_l ul {
+	padding:10px;
+}
+#sidebar_l li {
+	text-indent:15px;
+	line-height: 2em;
+}
+
+#main {
+	width:100%;
+	float:left;
+	margin-left:215px;
+}
+
