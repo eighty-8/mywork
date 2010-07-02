@@ -9,7 +9,7 @@ body{
 	margin:0;
 	padding:0;
 }
-p, ul, ol, li, dl, dt, dd, table, th, td, form, input, textarea{margin:0; padding:0;}
+p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, table, th, td, form, input, textarea{margin:0; padding:0;}
 ul, ol, li {list-style:none;}
 #wrapper{
 	width:100%;
@@ -26,6 +26,7 @@ ul, ol, li {list-style:none;}
 	left:15px;
 }
 #sidebar_l{
+	background-color:#e5e5e5;
 	width:200px;
 	float:left;
 }
@@ -37,9 +38,28 @@ ul, ol, li {list-style:none;}
 	line-height: 2em;
 }
 #main{
-	width:100%;
-	float:left;
 	margin-left:215px;
+	padding-bottom:50px;
+}
+.pagetop{
+	text-align:right;
+}
+#promo{
+	height:130px;
+}
+#whatsnew {
+	margin-bottom:10px;
+}
+#whatsnew h2{
+	font-size:14px;
+	margin-bottom:5px;
+}
+#whatsnew ul{
+	padding:10px;
+	border:solid 1px #333;
+}
+#whatsnew li{
+	line-height:1.6em;
 }
 #footer{
 	color:#fff;
