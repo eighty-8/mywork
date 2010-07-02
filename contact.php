@@ -4,8 +4,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<meta name="description" content="プロフィール">
-<title>eighty-8[プロフィール]</title>
+<meta name="description" content="お問い合わせ">
+<title>eighty-8[お問い合わせ]</title>
 <link rel="stylesheet" type="text/css" href="./css/style.css">
 </head>
 <body>
@@ -23,7 +23,7 @@
 	</div>
 	<div id="main">
 		<div id="whatsnew" class="mainBlock">
-			<h2>プロフィールページ</h2>
+			<h2>お問い合わせページ</h2>
 		</div>
 		
 		<p class="pagetop"><a href="#header">このページのトップへ▲</a></p>
