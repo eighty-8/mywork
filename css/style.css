@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+html, body{
+	height:100%;
+}
+body{
+	background-color:#cdcdcd;
+	font-size:12px;
+	margin:0;
+	padding:0;
+}
