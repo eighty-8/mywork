@@ -11,15 +11,17 @@ body{
 }
 p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, table, th, td, form, input, textarea{margin:0; padding:0;}
 ul, ol, li {list-style:none;}
+img{border:none;}
 #wrapper{
 	width:100%;
 }
 #header{
-	background-color:#ffcc22;
+	background-color:#010101;
 	height:90px;
 	position:relative;
 }
 #header h1{
+	color:#fff;
 	font-size:18px;
 	position:absolute;
 	top:15px;
@@ -38,7 +40,9 @@ ul, ol, li {list-style:none;}
 	line-height: 2em;
 }
 #main{
+	width:700px;
 	margin-left:215px;
+	padding-top:15px;
 	padding-bottom:50px;
 }
 .pagetop{
@@ -46,6 +50,7 @@ ul, ol, li {list-style:none;}
 }
 #promo{
 	height:130px;
+	margin-bottom:20px;
 }
 #whatsnew {
 	margin-bottom:10px;
